@@ -1,0 +1,431 @@
+<svg style="overflow: hidden; -moz-user-select: none; cursor: default; position: relative; background-color: rgb(255, 255, 255);" xmlns="http://www.w3.org/2000/svg" width="3540" version="1.1" height="1282"><desc> test foo</desc><rect  fill="#808080" ry="0" rx="0" r="0" height="1282" width="3540" y="0" x="0"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="1120"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="1420"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0.504531" width="150" y="400" x="2020"></rect><text transform="rotate(90,2035,400.252)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="400.252" x="2035" style="text-anchor: end;">o__Fusobacteriales</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="2320"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="2620"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="400" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="820"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="1720"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400.505" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="3.69484" width="150" y="400" x="2320"></rect><text transform="rotate(90,2348.33,401.847)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="401.847" x="2348.33" style="text-anchor: end;">Fusobacterium  varium</text>
+<rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="2620"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="400" x="2920"></rect><rect  fill="red" ry="0" rx="0" r="0" height="142.509" width="150" y="400" x="220"></rect><text transform="rotate(90,261.667,471.255)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="471.255" x="261.667" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="352.135" width="150" y="400" x="520"></rect><text transform="rotate(90,561.667,576.068)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="576.068" x="561.667" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="384.737" width="150" y="400" x="820"></rect><text transform="rotate(90,861.667,592.368)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="592.368" x="861.667" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="44.4292" width="150" y="400" x="1120"></rect><text transform="rotate(90,1161.67,422.215)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="422.215" x="1161.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="60.866" width="150" y="400" x="1420"></rect><text transform="rotate(90,1461.67,430.433)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="430.433" x="1461.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="128.637" width="150" y="400" x="1720"></rect><text transform="rotate(90,1761.67,464.319)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="464.319" x="1761.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="276.063" width="150" y="400.505" x="2020"></rect><text transform="rotate(90,2061.67,538.536)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="538.536" x="2061.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="109.579" width="150" y="403.695" x="2320"></rect><text transform="rotate(90,2361.67,458.484)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="458.484" x="2361.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="164.387" width="150" y="400" x="2620"></rect><text transform="rotate(90,2661.67,482.194)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="482.194" x="2661.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="185.281" width="150" y="400" x="2920"></rect><text transform="rotate(90,2961.67,492.641)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="492.641" x="2961.67" style="text-anchor: end;">Fusobacterium  sp37464</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="152.25" width="150" y="542.509" x="220"></rect><text transform="rotate(90,275,618.634)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="618.634" x="275" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="93.4899" width="150" y="752.135" x="520"></rect><text transform="rotate(90,575,798.88)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="798.88" x="575" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="88.3087" width="150" y="784.737" x="820"></rect><text transform="rotate(90,875,828.891)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="828.891" x="875" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="174.543" width="150" y="444.429" x="1120"></rect><text transform="rotate(90,1175,531.701)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="531.701" x="1175" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="85.1062" width="150" y="460.866" x="1420"></rect><text transform="rotate(90,1475,503.419)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="503.419" x="1475" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="119.143" width="150" y="528.637" x="1720"></rect><text transform="rotate(90,1775,588.209)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="588.209" x="1775" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="97.9631" width="150" y="676.567" x="2020"></rect><text transform="rotate(90,2075,725.549)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="725.549" x="2075" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="126.096" width="150" y="513.274" x="2320"></rect><text transform="rotate(90,2375,576.322)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="576.322" x="2375" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="63.2608" width="150" y="564.387" x="2620"></rect><text transform="rotate(90,2675,596.018)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="596.018" x="2675" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="73.109" width="150" y="585.281" x="2920"></rect><text transform="rotate(90,2975,621.836)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="621.836" x="2975" style="text-anchor: end;">Fusobacterium  sp37458_8</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="green" ry="0" rx="0" r="0" height="50.2027" width="150" y="618.973" x="1120"></rect><text transform="rotate(90,1188.33,644.074)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="644.074" x="1188.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="57.8581" width="150" y="545.972" x="1420"></rect><text transform="rotate(90,1488.33,574.901)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="574.901" x="1488.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="31.3216" width="150" y="647.78" x="1720"></rect><text transform="rotate(90,1788.33,663.441)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="663.441" x="1788.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="13.7485" width="150" y="774.53" x="2020"></rect><text transform="rotate(90,2088.33,781.405)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="781.405" x="2088.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="3.54764" width="150" y="639.37" x="2320"></rect><text transform="rotate(90,2388.33,641.144)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="641.144" x="2388.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="1.17172" width="150" y="627.648" x="2620"></rect><text transform="rotate(90,2688.33,628.234)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="628.234" x="2688.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="4.92122" width="150" y="658.39" x="2920"></rect><text transform="rotate(90,2988.33,660.851)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="660.851" x="2988.33" style="text-anchor: end;">Fusobacterium  sp37458_7</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="5.92645" width="150" y="669.175" x="1120"></rect><text transform="rotate(90,1201.67,672.139)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="672.139" x="1201.67" style="text-anchor: end;">Fusobacterium  sp37458_6</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="16.7205" width="150" y="603.83" x="1420"></rect><text transform="rotate(90,1501.67,612.191)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="612.191" x="1501.67" style="text-anchor: end;">Fusobacterium  sp37458_6</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="2.81697" width="150" y="788.279" x="2020"></rect><text transform="rotate(90,2101.67,789.687)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="789.687" x="2101.67" style="text-anchor: end;">Fusobacterium  sp37458_6</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="6.34453" width="150" y="642.917" x="2320"></rect><text transform="rotate(90,2401.67,646.09)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="646.09" x="2401.67" style="text-anchor: end;">Fusobacterium  sp37458_6</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="2.42713" width="150" y="628.82" x="2620"></rect><text transform="rotate(90,2701.67,630.033)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="630.033" x="2701.67" style="text-anchor: end;">Fusobacterium  sp37458_6</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="663.311" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="675.102" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="791.096" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="631.247" x="2620"></rect><rect  fill="white" ry="0" rx="0" r="0" height="4.15063" width="150" y="663.311" x="2920"></rect><text transform="rotate(90,3015,665.387)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="665.387" x="3015" style="text-anchor: end;">Fusobacterium  sp37458_5</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="675.102" x="1120"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="red" ry="0" rx="0" r="0" height="6.72708" width="150" y="791.096" x="2020"></rect><text transform="rotate(90,2128.33,794.459)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="794.459" x="2128.33" style="text-anchor: end;">Fusobacterium  sp37458_4</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="red" ry="0" rx="0" r="0" height="3.46733" width="150" y="631.247" x="2620"></rect><text transform="rotate(90,2728.33,632.981)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="632.981" x="2728.33" style="text-anchor: end;">Fusobacterium  sp37458_4</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="667.462" x="2920"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="675.102" x="1120"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="2.90105" width="150" y="797.823" x="2020"></rect><text transform="rotate(90,2141.67,799.273)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="799.273" x="2141.67" style="text-anchor: end;">Fusobacterium  sp37458_3</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="2.06844" width="150" y="634.714" x="2620"></rect><text transform="rotate(90,2741.67,635.749)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="635.749" x="2741.67" style="text-anchor: end;">Fusobacterium  sp37458_3</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="667.462" x="2920"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="675.102" x="1120"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="800.724" x="2020"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="636.783" x="2620"></rect><rect  fill="green" ry="0" rx="0" r="0" height="1.33101" width="150" y="667.462" x="2920"></rect><text transform="rotate(90,2935,668.127)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="668.127" x="2935" style="text-anchor: end;">Fusobacterium  sp37458_2</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="873.046" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="1.49117" width="150" y="675.102" x="1120"></rect><text transform="rotate(90,1148.33,675.847)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="675.847" x="1148.33" style="text-anchor: end;">Fusobacterium  sp37458_1</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="800.724" x="2020"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0.478252" width="150" y="636.783" x="2620"></rect><text transform="rotate(90,2648.33,637.022)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="637.022" x="2648.33" style="text-anchor: end;">Fusobacterium  sp37458_1</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="668.793" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="7.73905" width="150" y="873.046" x="820"></rect><text transform="rotate(90,861.667,876.915)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="876.915" x="861.667" style="text-anchor: end;">Fusobacterium  perfoetens_2</text>
+<rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="800.724" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="637.261" x="2620"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="668.793" x="2920"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="red" ry="0" rx="0" r="0" height="7.57849" width="150" y="880.785" x="820"></rect><text transform="rotate(90,875,884.574)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="884.574" x="875" style="text-anchor: end;">Fusobacterium  perfoetens_1</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="800.724" x="2020"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="637.261" x="2620"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="668.793" x="2920"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="694.759" x="220"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="845.625" x="520"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="888.363" x="820"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="800.724" x="2020"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="637.261" x="2620"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="3.85291" width="150" y="668.793" x="2920"></rect><text transform="rotate(90,2988.33,670.719)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="670.719" x="2988.33" style="text-anchor: end;">Fusobacterium  mortiferum_9</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="51.5477" width="150" y="694.759" x="220"></rect><text transform="rotate(90,301.667,720.533)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="720.533" x="301.667" style="text-anchor: end;">Fusobacterium  mortiferum_8</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="27.125" width="150" y="845.625" x="520"></rect><text transform="rotate(90,601.667,859.188)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="859.188" x="601.667" style="text-anchor: end;">Fusobacterium  mortiferum_8</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="20.3592" width="150" y="888.363" x="820"></rect><text transform="rotate(90,901.667,898.543)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="898.543" x="901.667" style="text-anchor: end;">Fusobacterium  mortiferum_8</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="green" ry="0" rx="0" r="0" height="5.25553" width="150" y="800.724" x="2020"></rect><text transform="rotate(90,2101.67,803.352)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="803.352" x="2101.67" style="text-anchor: end;">Fusobacterium  mortiferum_8</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="green" ry="0" rx="0" r="0" height="3.13255" width="150" y="637.261" x="2620"></rect><text transform="rotate(90,2701.67,638.827)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="638.827" x="2701.67" style="text-anchor: end;">Fusobacterium  mortiferum_8</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="672.646" x="2920"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="746.307" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="872.75" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="908.722" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="black" ry="0" rx="0" r="0" height="2.60648" width="150" y="640.394" x="2620"></rect><text transform="rotate(90,2715,641.697)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="641.697" x="2715" style="text-anchor: end;">Fusobacterium  mortiferum_7</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="672.646" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="746.307" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="872.75" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="908.722" x="820"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="649.262" x="2320"></rect><rect  fill="white" ry="0" rx="0" r="0" height="2.21192" width="150" y="643" x="2620"></rect><text transform="rotate(90,2728.33,644.106)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="644.106" x="2728.33" style="text-anchor: end;">Fusobacterium  mortiferum_6</text>
+<rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="672.646" x="2920"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="746.307" x="220"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="872.75" x="520"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="908.722" x="820"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="red" ry="0" rx="0" r="0" height="2.48776" width="150" y="649.262" x="2320"></rect><text transform="rotate(90,2441.67,650.506)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="650.506" x="2441.67" style="text-anchor: end;">Fusobacterium  mortiferum_5</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="645.212" x="2620"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="672.646" x="2920"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="26.6043" width="150" y="746.307" x="220"></rect><text transform="rotate(90,235,759.609)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="759.609" x="235" style="text-anchor: end;">Fusobacterium  mortiferum_4</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="13.7629" width="150" y="872.75" x="520"></rect><text transform="rotate(90,535,879.631)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="879.631" x="535" style="text-anchor: end;">Fusobacterium  mortiferum_4</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="10.3401" width="150" y="908.722" x="820"></rect><text transform="rotate(90,835,913.892)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="913.892" x="835" style="text-anchor: end;">Fusobacterium  mortiferum_4</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="1.84127" width="150" y="645.212" x="2620"></rect><text transform="rotate(90,2635,646.133)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="646.133" x="2635" style="text-anchor: end;">Fusobacterium  mortiferum_4</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="672.646" x="2920"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="886.513" x="520"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="919.062" x="820"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="647.053" x="2620"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0.779339" width="150" y="672.646" x="2920"></rect><text transform="rotate(90,2948.33,673.036)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="673.036" x="2948.33" style="text-anchor: end;">Fusobacterium  mortiferum_3</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="886.513" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="919.062" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0.418471" width="150" y="647.053" x="2620"></rect><text transform="rotate(90,2661.67,647.263)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="647.263" x="2661.67" style="text-anchor: end;">Fusobacterium  mortiferum_2</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="886.513" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="3.88558" width="150" y="919.062" x="820"></rect><text transform="rotate(90,875,921.005)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="921.005" x="875" style="text-anchor: end;">Fusobacterium  mortiferum_19</text>
+<rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="647.472" x="2620"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="red" ry="0" rx="0" r="0" height="3.38506" width="150" y="886.513" x="520"></rect><text transform="rotate(90,588.333,888.205)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="888.205" x="588.333" style="text-anchor: end;">Fusobacterium  mortiferum_18</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="922.948" x="820"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="620.551" x="1420"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="647.472" x="2620"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="889.898" x="520"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="922.948" x="820"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="30.1676" width="150" y="620.551" x="1420"></rect><text transform="rotate(90,1501.67,635.635)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="635.635" x="1501.67" style="text-anchor: end;">Fusobacterium  mortiferum_17</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="647.472" x="2620"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="889.898" x="520"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="922.948" x="820"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="green" ry="0" rx="0" r="0" height="28.2213" width="150" y="650.718" x="1420"></rect><text transform="rotate(90,1515,664.829)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="664.829" x="1515" style="text-anchor: end;">Fusobacterium  mortiferum_16</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="647.472" x="2620"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="889.898" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="922.948" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="black" ry="0" rx="0" r="0" height="7.87365" width="150" y="678.94" x="1420"></rect><text transform="rotate(90,1528.33,682.877)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="682.877" x="1528.33" style="text-anchor: end;">Fusobacterium  mortiferum_15</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="679.102" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="647.472" x="2620"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="772.911" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="889.898" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="922.948" x="820"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="676.593" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="686.813" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0.930804" width="150" y="679.102" x="1720"></rect><text transform="rotate(90,1841.67,679.567)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="679.567" x="1841.67" style="text-anchor: end;">Fusobacterium  mortiferum_14</text>
+<rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="805.979" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="651.75" x="2320"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="647.472" x="2620"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="673.425" x="2920"></rect><rect  fill="red" ry="0" rx="0" r="0" height="309.089" width="150" y="772.911" x="220"></rect><text transform="rotate(90,235,927.456)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="927.456" x="235" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="184.931" width="150" y="889.898" x="520"></rect><text transform="rotate(90,535,982.364)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="982.364" x="535" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="159.052" width="150" y="922.948" x="820"></rect><text transform="rotate(90,835,1002.47)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="1002.47" x="835" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="352.146" width="150" y="676.593" x="1120"></rect><text transform="rotate(90,1135,852.666)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="852.666" x="1135" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="339.098" width="150" y="686.813" x="1420"></rect><text transform="rotate(90,1435,856.362)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="856.362" x="1435" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="340.953" width="150" y="680.032" x="1720"></rect><text transform="rotate(90,1735,850.509)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="850.509" x="1735" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="240.83" width="150" y="805.979" x="2020"></rect><text transform="rotate(90,2035,926.394)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="926.394" x="2035" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="348.993" width="150" y="651.75" x="2320"></rect><text transform="rotate(90,2335,826.246)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="826.246" x="2335" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="363.723" width="150" y="647.472" x="2620"></rect><text transform="rotate(90,2635,829.333)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="829.333" x="2635" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="red" ry="0" rx="0" r="0" height="189.353" width="150" y="673.425" x="2920"></rect><text transform="rotate(90,2935,768.102)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="blue" y="768.102" x="2935" style="text-anchor: end;">Fusobacterium  mortiferum_13</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="220"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="7.17098" width="150" y="1074.83" x="520"></rect><text transform="rotate(90,548.333,1078.41)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="1078.41" x="548.333" style="text-anchor: end;">Fusobacterium  mortiferum_12</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="820"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="1028.74" x="1120"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="1025.91" x="1420"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="21.1758" width="150" y="1020.99" x="1720"></rect><text transform="rotate(90,1748.33,1031.57)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="1031.57" x="1748.33" style="text-anchor: end;">Fusobacterium  mortiferum_12</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="0" width="150" y="1046.81" x="2020"></rect><rect  fill="blue" ry="0" rx="0" r="0" height="49.0339" width="150" y="1000.74" x="2320"></rect><text transform="rotate(90,2348.33,1025.26)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="1025.26" x="2348.33" style="text-anchor: end;">Fusobacterium  mortiferum_12</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="16.5236" width="150" y="1011.19" x="2620"></rect><text transform="rotate(90,2648.33,1019.46)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="1019.46" x="2648.33" style="text-anchor: end;">Fusobacterium  mortiferum_12</text>
+<rect  fill="blue" ry="0" rx="0" r="0" height="197.199" width="150" y="862.778" x="2920"></rect><text transform="rotate(90,2948.33,961.378)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="green" y="961.378" x="2948.33" style="text-anchor: end;">Fusobacterium  mortiferum_12</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="220"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="520"></rect><rect  fill="green" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="820"></rect><rect  fill="green" ry="0" rx="0" r="0" height="53.2615" width="150" y="1028.74" x="1120"></rect><text transform="rotate(90,1161.67,1055.37)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1055.37" x="1161.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="56.0887" width="150" y="1025.91" x="1420"></rect><text transform="rotate(90,1461.67,1053.96)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1053.96" x="1461.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="39.8384" width="150" y="1042.16" x="1720"></rect><text transform="rotate(90,1761.67,1062.08)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1062.08" x="1761.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="31.6173" width="150" y="1046.81" x="2020"></rect><text transform="rotate(90,2061.67,1062.62)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1062.62" x="2061.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="31.7668" width="150" y="1049.78" x="2320"></rect><text transform="rotate(90,2361.67,1065.66)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1065.66" x="2361.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="49.5111" width="150" y="1027.72" x="2620"></rect><text transform="rotate(90,2661.67,1052.47)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1052.47" x="2661.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="green" ry="0" rx="0" r="0" height="22.0229" width="150" y="1059.98" x="2920"></rect><text transform="rotate(90,2961.67,1070.99)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="black" y="1070.99" x="2961.67" style="text-anchor: end;">Fusobacterium  mortiferum_11</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="220"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="520"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="820"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1120"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1420"></rect><rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1720"></rect><rect  fill="black" ry="0" rx="0" r="0" height="3.57376" width="150" y="1078.43" x="2020"></rect><text transform="rotate(90,2075,1080.21)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="1080.21" x="2075" style="text-anchor: end;">Fusobacterium  mortiferum_10</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1081.54" x="2320"></rect><rect  fill="black" ry="0" rx="0" r="0" height="4.77057" width="150" y="1077.23" x="2620"></rect><text transform="rotate(90,2675,1079.61)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="white" y="1079.61" x="2675" style="text-anchor: end;">Fusobacterium  mortiferum_10</text>
+<rect  fill="black" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2920"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="220"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="520"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="820"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1120"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1420"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1720"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2020"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0.456335" width="150" y="1081.54" x="2320"></rect><text transform="rotate(90,2388.33,1081.77)" font-weight="normal" font-size="12.5" font-family="Verdana" fill="red" y="1081.77" x="2388.33" style="text-anchor: end;">Fusobacterium  mortiferum_1</text>
+<rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2620"></rect><rect  fill="white" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2920"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="220"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="520"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="820"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1120"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1420"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="1720"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2020"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2320"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2620"></rect><rect  fill="red" ry="0" rx="0" r="0" height="0" width="150" y="1082" x="2920"></rect><text transform="rotate(-45,220,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="220" style="text-anchor:start;">Greta1</text>
+<text transform="rotate(-45,520,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="520" style="text-anchor:start;">Moe</text>
+<text transform="rotate(-45,820,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="820" style="text-anchor:start;">Peapod</text>
+<text transform="rotate(-45,1120,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="1120" style="text-anchor:start;">Beauty</text>
+<text transform="rotate(-45,1420,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="1420" style="text-anchor:start;">Beauty</text>
+<text transform="rotate(-45,1720,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="1720" style="text-anchor:start;">Brownie</text>
+<text transform="rotate(-45,2020,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="2020" style="text-anchor:start;">Daisy</text>
+<text transform="rotate(-45,2320,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="2320" style="text-anchor:start;">Annie</text>
+<text transform="rotate(-45,2620,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="2620" style="text-anchor:start;">Happy</text>
+<text transform="rotate(-45,2920,360)" font-weight="normal" font-size="20" font-family="Verdana" fill="black" y="360" x="2920" style="text-anchor:start;">Rocky</text>
+<text transform="rotate(0,20,400)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="400" x="20" style="text-anchor:start;">o__Fusobacteriales</text>
+<path d="M70 400 L220 400" stroke="black" stroke-width="2"/><path d="M370 400 L520 400" stroke="black" stroke-width="2"/>
+<path d="M670 400 L820 400" stroke="black" stroke-width="2"/>
+<path d="M970 400 L1120 400" stroke="black" stroke-width="2"/>
+<path d="M1270 400 L1420 400" stroke="black" stroke-width="2"/>
+<path d="M1570 400 L1720 400" stroke="black" stroke-width="2"/>
+<path d="M1870 400 L2020 400" stroke="black" stroke-width="2"/>
+<path d="M2170 400 L2320 400" stroke="black" stroke-width="2"/>
+<path d="M2470 400 L2620 400" stroke="black" stroke-width="2"/>
+<path d="M2770 400 L2920 400" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,3440,400)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="400" x="3440" style="text-anchor:end;">Fusobacterium  varium</text>
+<path d="M3390 400 L3070 400" stroke="white" stroke-width="2"/><path d="M370 400 L520 400" stroke="white" stroke-width="2"/>
+<path d="M670 400 L820 400" stroke="white" stroke-width="2"/>
+<path d="M970 400 L1120 400" stroke="white" stroke-width="2"/>
+<path d="M1270 400 L1420 400" stroke="white" stroke-width="2"/>
+<path d="M1570 400 L1720 400" stroke="white" stroke-width="2"/>
+<path d="M1870 400 L2020 400.505" stroke="white" stroke-width="2"/>
+<path d="M2170 400.505 L2320 400" stroke="white" stroke-width="2"/>
+<path d="M2470 400 L2620 400" stroke="white" stroke-width="2"/>
+<path d="M2770 400 L2920 400" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,20,440.118)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="440.118" x="20" style="text-anchor:start;">Fusobacterium  sp37464</text>
+<path d="M70 440.118 L220 400" stroke="red" stroke-width="2"/><path d="M370 400 L520 400" stroke="red" stroke-width="2"/>
+<path d="M670 400 L820 400" stroke="red" stroke-width="2"/>
+<path d="M970 400 L1120 400" stroke="red" stroke-width="2"/>
+<path d="M1270 400 L1420 400" stroke="red" stroke-width="2"/>
+<path d="M1570 400 L1720 400" stroke="red" stroke-width="2"/>
+<path d="M1870 400 L2020 400.505" stroke="red" stroke-width="2"/>
+<path d="M2170 400.505 L2320 403.695" stroke="red" stroke-width="2"/>
+<path d="M2470 403.695 L2620 400" stroke="red" stroke-width="2"/>
+<path d="M2770 400 L2920 400" stroke="red" stroke-width="2"/>
+<text transform="rotate(0,3440,440.118)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="440.118" x="3440" style="text-anchor:end;">Fusobacterium  sp37458_8</text>
+<path d="M3390 440.118 L3070 585.281" stroke="blue" stroke-width="2"/><path d="M370 542.509 L520 752.135" stroke="blue" stroke-width="2"/>
+<path d="M670 752.135 L820 784.737" stroke="blue" stroke-width="2"/>
+<path d="M970 784.737 L1120 444.429" stroke="blue" stroke-width="2"/>
+<path d="M1270 444.429 L1420 460.866" stroke="blue" stroke-width="2"/>
+<path d="M1570 460.866 L1720 528.637" stroke="blue" stroke-width="2"/>
+<path d="M1870 528.637 L2020 676.567" stroke="blue" stroke-width="2"/>
+<path d="M2170 676.567 L2320 513.274" stroke="blue" stroke-width="2"/>
+<path d="M2470 513.274 L2620 564.387" stroke="blue" stroke-width="2"/>
+<path d="M2770 564.387 L2920 585.281" stroke="blue" stroke-width="2"/>
+<text transform="rotate(0,20,480.235)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="480.235" x="20" style="text-anchor:start;">Fusobacterium  sp37458_7</text>
+<path d="M70 480.235 L220 694.759" stroke="green" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="green" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="green" stroke-width="2"/>
+<path d="M970 873.046 L1120 618.973" stroke="green" stroke-width="2"/>
+<path d="M1270 618.973 L1420 545.972" stroke="green" stroke-width="2"/>
+<path d="M1570 545.972 L1720 647.78" stroke="green" stroke-width="2"/>
+<path d="M1870 647.78 L2020 774.53" stroke="green" stroke-width="2"/>
+<path d="M2170 774.53 L2320 639.37" stroke="green" stroke-width="2"/>
+<path d="M2470 639.37 L2620 627.648" stroke="green" stroke-width="2"/>
+<path d="M2770 627.648 L2920 658.39" stroke="green" stroke-width="2"/>
+<text transform="rotate(0,3440,480.235)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="480.235" x="3440" style="text-anchor:end;">Fusobacterium  sp37458_6</text>
+<path d="M3390 480.235 L3070 663.311" stroke="black" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="black" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="black" stroke-width="2"/>
+<path d="M970 873.046 L1120 669.175" stroke="black" stroke-width="2"/>
+<path d="M1270 669.175 L1420 603.83" stroke="black" stroke-width="2"/>
+<path d="M1570 603.83 L1720 679.102" stroke="black" stroke-width="2"/>
+<path d="M1870 679.102 L2020 788.279" stroke="black" stroke-width="2"/>
+<path d="M2170 788.279 L2320 642.917" stroke="black" stroke-width="2"/>
+<path d="M2470 642.917 L2620 628.82" stroke="black" stroke-width="2"/>
+<path d="M2770 628.82 L2920 663.311" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,20,520.353)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="520.353" x="20" style="text-anchor:start;">Fusobacterium  sp37458_5</text>
+<path d="M70 520.353 L220 694.759" stroke="white" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="white" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="white" stroke-width="2"/>
+<path d="M970 873.046 L1120 675.102" stroke="white" stroke-width="2"/>
+<path d="M1270 675.102 L1420 620.551" stroke="white" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="white" stroke-width="2"/>
+<path d="M1870 679.102 L2020 791.096" stroke="white" stroke-width="2"/>
+<path d="M2170 791.096 L2320 649.262" stroke="white" stroke-width="2"/>
+<path d="M2470 649.262 L2620 631.247" stroke="white" stroke-width="2"/>
+<path d="M2770 631.247 L2920 663.311" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,3440,520.353)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="520.353" x="3440" style="text-anchor:end;">Fusobacterium  sp37458_4</text>
+<path d="M3390 520.353 L3070 667.462" stroke="red" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="red" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="red" stroke-width="2"/>
+<path d="M970 873.046 L1120 675.102" stroke="red" stroke-width="2"/>
+<path d="M1270 675.102 L1420 620.551" stroke="red" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="red" stroke-width="2"/>
+<path d="M1870 679.102 L2020 791.096" stroke="red" stroke-width="2"/>
+<path d="M2170 791.096 L2320 649.262" stroke="red" stroke-width="2"/>
+<path d="M2470 649.262 L2620 631.247" stroke="red" stroke-width="2"/>
+<path d="M2770 631.247 L2920 667.462" stroke="red" stroke-width="2"/>
+<text transform="rotate(0,20,560.471)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="560.471" x="20" style="text-anchor:start;">Fusobacterium  sp37458_3</text>
+<path d="M70 560.471 L220 694.759" stroke="blue" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="blue" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="blue" stroke-width="2"/>
+<path d="M970 873.046 L1120 675.102" stroke="blue" stroke-width="2"/>
+<path d="M1270 675.102 L1420 620.551" stroke="blue" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="blue" stroke-width="2"/>
+<path d="M1870 679.102 L2020 797.823" stroke="blue" stroke-width="2"/>
+<path d="M2170 797.823 L2320 649.262" stroke="blue" stroke-width="2"/>
+<path d="M2470 649.262 L2620 634.714" stroke="blue" stroke-width="2"/>
+<path d="M2770 634.714 L2920 667.462" stroke="blue" stroke-width="2"/>
+<text transform="rotate(0,3440,560.471)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="560.471" x="3440" style="text-anchor:end;">Fusobacterium  sp37458_2</text>
+<path d="M3390 560.471 L3070 667.462" stroke="green" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="green" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="green" stroke-width="2"/>
+<path d="M970 873.046 L1120 675.102" stroke="green" stroke-width="2"/>
+<path d="M1270 675.102 L1420 620.551" stroke="green" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="green" stroke-width="2"/>
+<path d="M1870 679.102 L2020 800.724" stroke="green" stroke-width="2"/>
+<path d="M2170 800.724 L2320 649.262" stroke="green" stroke-width="2"/>
+<path d="M2470 649.262 L2620 636.783" stroke="green" stroke-width="2"/>
+<path d="M2770 636.783 L2920 667.462" stroke="green" stroke-width="2"/>
+<text transform="rotate(0,20,600.588)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="600.588" x="20" style="text-anchor:start;">Fusobacterium  sp37458_1</text>
+<path d="M70 600.588 L220 694.759" stroke="black" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="black" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="black" stroke-width="2"/>
+<path d="M970 873.046 L1120 675.102" stroke="black" stroke-width="2"/>
+<path d="M1270 675.102 L1420 620.551" stroke="black" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="black" stroke-width="2"/>
+<path d="M1870 679.102 L2020 800.724" stroke="black" stroke-width="2"/>
+<path d="M2170 800.724 L2320 649.262" stroke="black" stroke-width="2"/>
+<path d="M2470 649.262 L2620 636.783" stroke="black" stroke-width="2"/>
+<path d="M2770 636.783 L2920 668.793" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,3440,600.588)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="600.588" x="3440" style="text-anchor:end;">Fusobacterium  perfoetens_2</text>
+<path d="M3390 600.588 L3070 668.793" stroke="white" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="white" stroke-width="2"/>
+<path d="M670 845.625 L820 873.046" stroke="white" stroke-width="2"/>
+<path d="M970 873.046 L1120 676.593" stroke="white" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="white" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="white" stroke-width="2"/>
+<path d="M1870 679.102 L2020 800.724" stroke="white" stroke-width="2"/>
+<path d="M2170 800.724 L2320 649.262" stroke="white" stroke-width="2"/>
+<path d="M2470 649.262 L2620 637.261" stroke="white" stroke-width="2"/>
+<path d="M2770 637.261 L2920 668.793" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,20,640.706)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="640.706" x="20" style="text-anchor:start;">Fusobacterium  perfoetens_1</text>
+<path d="M70 640.706 L220 694.759" stroke="red" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="red" stroke-width="2"/>
+<path d="M670 845.625 L820 880.785" stroke="red" stroke-width="2"/>
+<path d="M970 880.785 L1120 676.593" stroke="red" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="red" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="red" stroke-width="2"/>
+<path d="M1870 679.102 L2020 800.724" stroke="red" stroke-width="2"/>
+<path d="M2170 800.724 L2320 649.262" stroke="red" stroke-width="2"/>
+<path d="M2470 649.262 L2620 637.261" stroke="red" stroke-width="2"/>
+<path d="M2770 637.261 L2920 668.793" stroke="red" stroke-width="2"/>
+<text transform="rotate(0,3440,640.706)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="640.706" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_9</text>
+<path d="M3390 640.706 L3070 668.793" stroke="blue" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="blue" stroke-width="2"/>
+<path d="M670 845.625 L820 888.363" stroke="blue" stroke-width="2"/>
+<path d="M970 888.363 L1120 676.593" stroke="blue" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="blue" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="blue" stroke-width="2"/>
+<path d="M1870 679.102 L2020 800.724" stroke="blue" stroke-width="2"/>
+<path d="M2170 800.724 L2320 649.262" stroke="blue" stroke-width="2"/>
+<path d="M2470 649.262 L2620 637.261" stroke="blue" stroke-width="2"/>
+<path d="M2770 637.261 L2920 668.793" stroke="blue" stroke-width="2"/>
+<text transform="rotate(0,20,680.824)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="680.824" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_8</text>
+<path d="M70 680.824 L220 694.759" stroke="green" stroke-width="2"/><path d="M370 694.759 L520 845.625" stroke="green" stroke-width="2"/>
+<path d="M670 845.625 L820 888.363" stroke="green" stroke-width="2"/>
+<path d="M970 888.363 L1120 676.593" stroke="green" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="green" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="green" stroke-width="2"/>
+<path d="M1870 679.102 L2020 800.724" stroke="green" stroke-width="2"/>
+<path d="M2170 800.724 L2320 649.262" stroke="green" stroke-width="2"/>
+<path d="M2470 649.262 L2620 637.261" stroke="green" stroke-width="2"/>
+<path d="M2770 637.261 L2920 672.646" stroke="green" stroke-width="2"/>
+<text transform="rotate(0,3440,680.824)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="680.824" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_7</text>
+<path d="M3390 680.824 L3070 672.646" stroke="black" stroke-width="2"/><path d="M370 746.307 L520 872.75" stroke="black" stroke-width="2"/>
+<path d="M670 872.75 L820 908.722" stroke="black" stroke-width="2"/>
+<path d="M970 908.722 L1120 676.593" stroke="black" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="black" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="black" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="black" stroke-width="2"/>
+<path d="M2170 805.979 L2320 649.262" stroke="black" stroke-width="2"/>
+<path d="M2470 649.262 L2620 640.394" stroke="black" stroke-width="2"/>
+<path d="M2770 640.394 L2920 672.646" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,20,720.941)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="720.941" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_6</text>
+<path d="M70 720.941 L220 746.307" stroke="white" stroke-width="2"/><path d="M370 746.307 L520 872.75" stroke="white" stroke-width="2"/>
+<path d="M670 872.75 L820 908.722" stroke="white" stroke-width="2"/>
+<path d="M970 908.722 L1120 676.593" stroke="white" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="white" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="white" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="white" stroke-width="2"/>
+<path d="M2170 805.979 L2320 649.262" stroke="white" stroke-width="2"/>
+<path d="M2470 649.262 L2620 643" stroke="white" stroke-width="2"/>
+<path d="M2770 643 L2920 672.646" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,3440,720.941)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="720.941" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_5</text>
+<path d="M3390 720.941 L3070 672.646" stroke="red" stroke-width="2"/><path d="M370 746.307 L520 872.75" stroke="red" stroke-width="2"/>
+<path d="M670 872.75 L820 908.722" stroke="red" stroke-width="2"/>
+<path d="M970 908.722 L1120 676.593" stroke="red" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="red" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="red" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="red" stroke-width="2"/>
+<path d="M2170 805.979 L2320 649.262" stroke="red" stroke-width="2"/>
+<path d="M2470 649.262 L2620 645.212" stroke="red" stroke-width="2"/>
+<path d="M2770 645.212 L2920 672.646" stroke="red" stroke-width="2"/>
+<text transform="rotate(0,20,761.059)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="761.059" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_4</text>
+<path d="M70 761.059 L220 746.307" stroke="blue" stroke-width="2"/><path d="M370 746.307 L520 872.75" stroke="blue" stroke-width="2"/>
+<path d="M670 872.75 L820 908.722" stroke="blue" stroke-width="2"/>
+<path d="M970 908.722 L1120 676.593" stroke="blue" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="blue" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="blue" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="blue" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="blue" stroke-width="2"/>
+<path d="M2470 651.75 L2620 645.212" stroke="blue" stroke-width="2"/>
+<path d="M2770 645.212 L2920 672.646" stroke="blue" stroke-width="2"/>
+<text transform="rotate(0,3440,761.059)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="761.059" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_3</text>
+<path d="M3390 761.059 L3070 672.646" stroke="green" stroke-width="2"/><path d="M370 772.911 L520 886.513" stroke="green" stroke-width="2"/>
+<path d="M670 886.513 L820 919.062" stroke="green" stroke-width="2"/>
+<path d="M970 919.062 L1120 676.593" stroke="green" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="green" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="green" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="green" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="green" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.053" stroke="green" stroke-width="2"/>
+<path d="M2770 647.053 L2920 672.646" stroke="green" stroke-width="2"/>
+<text transform="rotate(0,20,801.176)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="801.176" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_2</text>
+<path d="M70 801.176 L220 772.911" stroke="black" stroke-width="2"/><path d="M370 772.911 L520 886.513" stroke="black" stroke-width="2"/>
+<path d="M670 886.513 L820 919.062" stroke="black" stroke-width="2"/>
+<path d="M970 919.062 L1120 676.593" stroke="black" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="black" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="black" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="black" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="black" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.053" stroke="black" stroke-width="2"/>
+<path d="M2770 647.053 L2920 673.425" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,3440,801.176)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="801.176" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_19</text>
+<path d="M3390 801.176 L3070 673.425" stroke="white" stroke-width="2"/><path d="M370 772.911 L520 886.513" stroke="white" stroke-width="2"/>
+<path d="M670 886.513 L820 919.062" stroke="white" stroke-width="2"/>
+<path d="M970 919.062 L1120 676.593" stroke="white" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="white" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="white" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="white" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="white" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="white" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,20,841.294)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="841.294" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_18</text>
+<path d="M70 841.294 L220 772.911" stroke="red" stroke-width="2"/><path d="M370 772.911 L520 886.513" stroke="red" stroke-width="2"/>
+<path d="M670 886.513 L820 922.948" stroke="red" stroke-width="2"/>
+<path d="M970 922.948 L1120 676.593" stroke="red" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="red" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="red" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="red" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="red" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="red" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="red" stroke-width="2"/>
+<text transform="rotate(0,3440,841.294)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="841.294" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_17</text>
+<path d="M3390 841.294 L3070 673.425" stroke="blue" stroke-width="2"/><path d="M370 772.911 L520 889.898" stroke="blue" stroke-width="2"/>
+<path d="M670 889.898 L820 922.948" stroke="blue" stroke-width="2"/>
+<path d="M970 922.948 L1120 676.593" stroke="blue" stroke-width="2"/>
+<path d="M1270 676.593 L1420 620.551" stroke="blue" stroke-width="2"/>
+<path d="M1570 620.551 L1720 679.102" stroke="blue" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="blue" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="blue" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="blue" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="blue" stroke-width="2"/>
+<text transform="rotate(0,20,881.412)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="881.412" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_16</text>
+<path d="M70 881.412 L220 772.911" stroke="green" stroke-width="2"/><path d="M370 772.911 L520 889.898" stroke="green" stroke-width="2"/>
+<path d="M670 889.898 L820 922.948" stroke="green" stroke-width="2"/>
+<path d="M970 922.948 L1120 676.593" stroke="green" stroke-width="2"/>
+<path d="M1270 676.593 L1420 650.718" stroke="green" stroke-width="2"/>
+<path d="M1570 650.718 L1720 679.102" stroke="green" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="green" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="green" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="green" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="green" stroke-width="2"/>
+<text transform="rotate(0,3440,881.412)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="881.412" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_15</text>
+<path d="M3390 881.412 L3070 673.425" stroke="black" stroke-width="2"/><path d="M370 772.911 L520 889.898" stroke="black" stroke-width="2"/>
+<path d="M670 889.898 L820 922.948" stroke="black" stroke-width="2"/>
+<path d="M970 922.948 L1120 676.593" stroke="black" stroke-width="2"/>
+<path d="M1270 676.593 L1420 678.94" stroke="black" stroke-width="2"/>
+<path d="M1570 678.94 L1720 679.102" stroke="black" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="black" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="black" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="black" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,20,921.529)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="921.529" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_14</text>
+<path d="M70 921.529 L220 772.911" stroke="white" stroke-width="2"/><path d="M370 772.911 L520 889.898" stroke="white" stroke-width="2"/>
+<path d="M670 889.898 L820 922.948" stroke="white" stroke-width="2"/>
+<path d="M970 922.948 L1120 676.593" stroke="white" stroke-width="2"/>
+<path d="M1270 676.593 L1420 686.813" stroke="white" stroke-width="2"/>
+<path d="M1570 686.813 L1720 679.102" stroke="white" stroke-width="2"/>
+<path d="M1870 679.102 L2020 805.979" stroke="white" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="white" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="white" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,3440,921.529)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="921.529" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_13</text>
+<path d="M3390 921.529 L3070 673.425" stroke="red" stroke-width="2"/><path d="M370 772.911 L520 889.898" stroke="red" stroke-width="2"/>
+<path d="M670 889.898 L820 922.948" stroke="red" stroke-width="2"/>
+<path d="M970 922.948 L1120 676.593" stroke="red" stroke-width="2"/>
+<path d="M1270 676.593 L1420 686.813" stroke="red" stroke-width="2"/>
+<path d="M1570 686.813 L1720 680.032" stroke="red" stroke-width="2"/>
+<path d="M1870 680.032 L2020 805.979" stroke="red" stroke-width="2"/>
+<path d="M2170 805.979 L2320 651.75" stroke="red" stroke-width="2"/>
+<path d="M2470 651.75 L2620 647.472" stroke="red" stroke-width="2"/>
+<path d="M2770 647.472 L2920 673.425" stroke="red" stroke-width="2"/>
+<text transform="rotate(0,20,961.647)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="961.647" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_12</text>
+<path d="M70 961.647 L220 1082" stroke="blue" stroke-width="2"/><path d="M370 1082 L520 1074.83" stroke="blue" stroke-width="2"/>
+<path d="M670 1074.83 L820 1082" stroke="blue" stroke-width="2"/>
+<path d="M970 1082 L1120 1028.74" stroke="blue" stroke-width="2"/>
+<path d="M1270 1028.74 L1420 1025.91" stroke="blue" stroke-width="2"/>
+<path d="M1570 1025.91 L1720 1020.99" stroke="blue" stroke-width="2"/>
+<path d="M1870 1020.99 L2020 1046.81" stroke="blue" stroke-width="2"/>
+<path d="M2170 1046.81 L2320 1000.74" stroke="blue" stroke-width="2"/>
+<path d="M2470 1000.74 L2620 1011.19" stroke="blue" stroke-width="2"/>
+<path d="M2770 1011.19 L2920 862.778" stroke="blue" stroke-width="2"/>
+<text transform="rotate(0,3440,961.647)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="961.647" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_11</text>
+<path d="M3390 961.647 L3070 1059.98" stroke="green" stroke-width="2"/><path d="M370 1082 L520 1082" stroke="green" stroke-width="2"/>
+<path d="M670 1082 L820 1082" stroke="green" stroke-width="2"/>
+<path d="M970 1082 L1120 1028.74" stroke="green" stroke-width="2"/>
+<path d="M1270 1028.74 L1420 1025.91" stroke="green" stroke-width="2"/>
+<path d="M1570 1025.91 L1720 1042.16" stroke="green" stroke-width="2"/>
+<path d="M1870 1042.16 L2020 1046.81" stroke="green" stroke-width="2"/>
+<path d="M2170 1046.81 L2320 1049.78" stroke="green" stroke-width="2"/>
+<path d="M2470 1049.78 L2620 1027.72" stroke="green" stroke-width="2"/>
+<path d="M2770 1027.72 L2920 1059.98" stroke="green" stroke-width="2"/>
+<text transform="rotate(0,20,1001.76)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="1001.76" x="20" style="text-anchor:start;">Fusobacterium  mortiferum_10</text>
+<path d="M70 1001.76 L220 1082" stroke="black" stroke-width="2"/><path d="M370 1082 L520 1082" stroke="black" stroke-width="2"/>
+<path d="M670 1082 L820 1082" stroke="black" stroke-width="2"/>
+<path d="M970 1082 L1120 1082" stroke="black" stroke-width="2"/>
+<path d="M1270 1082 L1420 1082" stroke="black" stroke-width="2"/>
+<path d="M1570 1082 L1720 1082" stroke="black" stroke-width="2"/>
+<path d="M1870 1082 L2020 1078.43" stroke="black" stroke-width="2"/>
+<path d="M2170 1078.43 L2320 1081.54" stroke="black" stroke-width="2"/>
+<path d="M2470 1081.54 L2620 1077.23" stroke="black" stroke-width="2"/>
+<path d="M2770 1077.23 L2920 1082" stroke="black" stroke-width="2"/>
+<text transform="rotate(0,3440,1001.76)" font-weight="normal" font-size="20" font-family="Verdana" fill="red" y="1001.76" x="3440" style="text-anchor:end;">Fusobacterium  mortiferum_1</text>
+<path d="M3390 1001.76 L3070 1082" stroke="white" stroke-width="2"/><path d="M370 1082 L520 1082" stroke="white" stroke-width="2"/>
+<path d="M670 1082 L820 1082" stroke="white" stroke-width="2"/>
+<path d="M970 1082 L1120 1082" stroke="white" stroke-width="2"/>
+<path d="M1270 1082 L1420 1082" stroke="white" stroke-width="2"/>
+<path d="M1570 1082 L1720 1082" stroke="white" stroke-width="2"/>
+<path d="M1870 1082 L2020 1082" stroke="white" stroke-width="2"/>
+<path d="M2170 1082 L2320 1081.54" stroke="white" stroke-width="2"/>
+<path d="M2470 1081.54 L2620 1082" stroke="white" stroke-width="2"/>
+<path d="M2770 1082 L2920 1082" stroke="white" stroke-width="2"/>
+<text transform="rotate(0,20,1041.88)" font-weight="normal" font-size="20" font-family="Verdana" fill="blue" y="1041.88" x="20" style="text-anchor:start;">__other</text>
+<path d="M70 1041.88 L220 1082" stroke="red" stroke-width="2"/><path d="M370 1082 L520 1082" stroke="red" stroke-width="2"/>
+<path d="M670 1082 L820 1082" stroke="red" stroke-width="2"/>
+<path d="M970 1082 L1120 1082" stroke="red" stroke-width="2"/>
+<path d="M1270 1082 L1420 1082" stroke="red" stroke-width="2"/>
+<path d="M1570 1082 L1720 1082" stroke="red" stroke-width="2"/>
+<path d="M1870 1082 L2020 1082" stroke="red" stroke-width="2"/>
+<path d="M2170 1082 L2320 1082" stroke="red" stroke-width="2"/>
+<path d="M2470 1082 L2620 1082" stroke="red" stroke-width="2"/>
+<path d="M2770 1082 L2920 1082" stroke="red" stroke-width="2"/>
+</svg>
